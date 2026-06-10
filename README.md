@@ -19,7 +19,7 @@ Curated list of awesome commercial services that require x402 payments and use M
 
 ### Market Data
 
-- [The Stall](https://the-stall.intuitek.ai) - 28 AI-callable market data tools via x402 micropayments (USDC). Covers US stocks, equity technicals, macro indicators, commodity futures, crypto/DeFi, security screening, and more. No API key required — pay per call at /cap/<name>.
+- [The Stall](https://the-stall.intuitek.ai) - 201 pay-per-call AI capabilities via x402 micropayments (USDC/Base). DeFi analytics, crypto market data, equity intelligence, macro indicators, on-chain wallet scoring, and more. No account required — pay per call.
 
 ## Developers
 
